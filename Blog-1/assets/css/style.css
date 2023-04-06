@@ -1,0 +1,20 @@
+@import "partials/bootstrap.min.css";
+@import "partials/owl.carousel.min.css";
+@import "partials/owl.theme.default.min.css";
+@import "partials/header.css";
+@import "partials/features.css";
+@import "partials/latest-post.css";
+@import "partials/interview.css";
+@import "partials/sidebar.css";
+@import "partials/subscribe.css";
+@import "partials/widget-footer.css";
+@import "partials/copyright-footer.css";
+@import "partials/responsive.css";
+
+
+;root {
+    --primary-color:#2b9c9c;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}

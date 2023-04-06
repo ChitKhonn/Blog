@@ -1,0 +1,65 @@
+.widget-footer {
+    color: #ffffff;
+    background-color: #2c2c2c;
+}
+.footer-info img {
+    width: 50px;
+}
+.footer-info p {
+    font-size: 16px;
+    padding-top: 20px;
+    color: #f1f1f1;
+}
+.popular-content img {
+    float: left;
+    width: 130px;
+}
+.popular-info {
+    margin-left: 15px;
+    display: inline-block;
+}
+.popular-post {
+    padding-top: 45px;
+}
+.popular-info p {
+    font-style: italic;
+    font-size: 14px;
+}
+.popular-title h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.popular-title hr {
+    height: 1px;
+    background-color: #13d5d5;
+    margin-right: 261px;
+}
+
+/* Latest-news */
+.latest-news {
+    padding-top: 45px;
+}
+.latest-news h3 {
+    text-transform: uppercase;
+    font-size: 22px;
+}
+.latest-news hr {
+    height: 1px;
+    background-color: #13d5d5;
+    margin-right: 261px;
+}
+.carousel-caption img {
+    border-radius: 50%;
+}
+.carousel-item img {
+    margin-top: -290px;
+    margin-right: -6px;
+    margin-left: 55px;
+    margin-bottom: 21px;
+}
+.carousel-transparent-image {
+    margin-top: -341px;
+}
+.carousel-inner .carousel-item div span {
+    color: #13d5d5;
+}

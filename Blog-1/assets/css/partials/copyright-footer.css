@@ -1,0 +1,13 @@
+.copyright-section {
+    padding: 20px 0px;
+    background-color: rgb(20, 20, 20);
+}
+.payment-image li {
+    display: inline-block;
+    list-style: none;
+}
+.payment-image li img {
+    float: right;
+    width: 78px;
+    height: 31px;
+}

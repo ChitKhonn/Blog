@@ -1,0 +1,40 @@
+.interview-title {
+    text-transform: uppercase;
+    border-bottom: 3px solid #2b9c9c;
+}
+.interview-title span {
+    padding: 3px 7px;
+    font-size: 18px;
+    color: white;
+    background-color: #2b9c9c;
+}
+.interview-content .interview-image img {
+    width: 350px;
+    height: 208px;
+    padding-bottom: 10px;
+}
+.interview-content h5 {
+    font-weight: 600;
+    font-size: 17px;
+}
+.interview-image {
+    position: relative;
+}
+.interview-image::before {
+    content: '';
+    position: absolute;
+    background: rgba(29, 29, 29, 0.11);
+    width: 100%;
+    height: 95%;
+    pointer-events: none;
+}
+.interview-image::after {
+    font-family: "Font Awesome 5 Free";
+    content: '\f144';
+    position: absolute;
+    color: #dddddd;
+    font-size: 54px;
+    top: 25%;
+    right: 44%;
+    pointer-events: none;
+}

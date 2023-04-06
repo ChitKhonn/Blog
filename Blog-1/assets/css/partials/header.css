@@ -1,0 +1,74 @@
+.top-bar {
+    background-color: rgb(243, 242, 242);
+    border: 1px solid rgb(229, 226, 226);
+    padding-top: 9px;
+}
+.breaking-title {
+    background-color: #2b9c9c;
+    position: relative;
+    padding: 5px 15px 0px 15px;
+    margin-bottom: 10px;
+    color: rgba(255, 255, 255, 0.966);
+}
+.breaking-title::after {
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    border: solid transparent;
+    border-width: 8px;
+    border-top-color: #2b9c9c;
+    content: '';
+}
+.wrapper .breaking-title h6 {
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.breaking-news-bar .breaking-news-item {
+    width: 1200px;
+}
+.breaking-news-bar .breaking-news-item a {
+    color: rgb(4 3 3);
+    font-size: 14px;
+}
+.breaking-news-bar .breaking-news-item a:hover {
+    text-decoration: none;
+}
+.breaking .owl-nav {
+    position: absolute;
+    margin: 0;
+    top: 0;
+    right: 0;
+}
+.owl-carousel.owl-theme.owl-loaded .owl-nav >div {
+    width: 22px;
+    height: 22px;
+    line-height: 5px;
+    margin: 0px 3px;
+    background-color: #2b9c9c;
+}
+.wrapper .breaking-news-bar .icon {
+    color: #585858;
+    margin: 0 30px;
+    font-size: 17px;
+}
+.wrapper .breaking-news-bar .icon .icon-item {
+    margin: 0 10px;
+}
+.wrapper .breaking-news-bar .icon .icon-item:hover {
+    color: #2b9c9c;
+}
+.mci-text-image img {
+    width: 160px;
+    height: 60px;
+}
+.banner-image img {
+    width: 740px;
+    height: 80px;
+}
+.navbar-nav {
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.navbar-nav .nav-item.nav-link:hover {
+    color: #2b9c9c;
+}

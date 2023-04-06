@@ -1,0 +1,29 @@
+@media (max-width: 767px){
+    .top-bar {
+        display: none;
+    }
+    .mci-text-image img {
+        margin-left: 180px;
+        margin-bottom: -22px;
+    }
+    .post-image img {
+        width: 100%;
+        height: auto;
+    }
+    .interview-content .interview-image img {
+        width: 100%;
+        height: 260px;
+    }
+    .banner-image .widget .widget-content img {
+        margin-left: 42px;
+        width: 80%;
+    }
+    .carousel-item img {
+        margin-left: 85px;
+    }
+    .payment-info {
+        /* margin-left: -26px; */
+        margin-top: 25px;
+        margin-right: 129px;
+    }
+}

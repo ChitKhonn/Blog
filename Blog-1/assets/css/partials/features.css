@@ -1,0 +1,97 @@
+.post {
+    padding: 50px 0;
+}
+a.title {
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    bottom: -220px;
+    position: relative;
+    left: 13px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.post-cat {
+    font-size: 12px;
+    padding: 3px 7px;
+    color: white;
+    position:absolute;
+    background-color: #000000cc;
+    top: 9px;
+    left: 13px;
+    text-transform: uppercase;
+}
+
+.feature-image-1 {
+    background: url(../../images/feature-image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-1:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-1.jpg');
+}
+.feature-image-2 {
+    background: url(../../images/feature-image-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-2:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-2.jpg');
+}
+.feature-image-3 {
+    background: url(../../images/feature-image-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-3:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-3.jpg');
+}
+.feature-image-4 {
+    background: url(../../images/feature-image-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-4:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-4.jpg');
+}
+.feature-image-5 {
+    background: url(../../images/feature-image-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-5:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-5.jpg');
+}
+.feature-image-6 {
+    background: url(../../images/feature-image-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 250px;
+    position: relative;
+}
+.feature-image-6:hover {
+    background-image: linear-gradient(rgba(194, 188, 188, 0.05), rgba(92, 90, 90, 0.9)), url('../../images/feature-image-6.jpg');
+}
+.left-post {
+    border-right: 2px solid rgb(185, 183, 183);
+}
+.middle-post {
+    border-right: 2px solid rgb(185, 183, 183);
+}

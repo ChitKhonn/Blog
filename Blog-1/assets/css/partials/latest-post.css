@@ -1,0 +1,69 @@
+.latest-post-title {
+    text-transform: uppercase;
+    border-bottom: 3px solid #2b9c9c;
+}
+.latest-post-title span {
+    padding: 3px 7px;
+    font-size: 18px;
+    color: white;
+    background-color: #2b9c9c;
+}
+.content-info div {
+    display: inline-block;
+}
+.author-date {
+    padding-bottom: 10px;
+    font-size: 11px;
+    font-weight: 600;
+}
+.stars {
+    color: #2b9c9c;
+    font-size: 16px;
+    margin: 0 40px;
+}
+.content-info span {
+    font-weight: 400;
+    font-style: italic;
+    color: #2b9c9c;
+}
+.post-content-info .title {
+    font-size: 21px;
+    font-weight: 600;
+    border-bottom: 1px solid cyan;
+    border-top: 1px solid cyan;
+}
+.main-content p {
+    font-size: 15px;
+}
+.post-image img {
+    width: 350px;
+    height: auto;
+    padding-bottom: 10px;
+}
+.latest-new-content {
+    display: block;
+}
+.latest-new-item .new-image {
+    float: left;
+}
+.latest-new-item .new-image img {
+    width: 124px;
+    margin-left: -41px;
+    margin-right: 20px;
+}
+.latest-new-item .new-image a {
+    text-decoration: none;
+}
+.new-title a {
+    font-weight: 600;
+    text-decoration: none;
+    color: #464545;
+}
+.latest-new-content ul > li {
+    list-style: none;
+}
+.latest-new-item .new-date {
+    font-size: 14px;
+    font-style: italic;
+    color: #86868b;
+}
